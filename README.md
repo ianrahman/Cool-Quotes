@@ -255,17 +255,6 @@ The thing about a battle plan is, it only works if soldiers follow orders.|Domin
 You know what the romans did when they marched into a country? They gave the king a choice, join or die. Those who joined flourished with the empire. Those who didn't... Either way the romans took the country.|Dominic 
 These invisible lines we draw on the world-- I realize they have no meaning. Why should a man lose his life for something illusory?|John Greer
 
-#Friends Quotes
-
-| Quote        | Author           | 
-| ------------- |:-------------:| 
-You can't become a pokemon master in pallet town.|DBY
-I think better, because I think as the machine that I am.|Eray Ozkural
-I like ur hard nose but ur personal expectation of urself can't always hold true to others. In summation. NAPALM. It's my fav leadership acronym Not All People Are Like Me. U r good. Others not so much. Pick ur battles.|Brutis37/Kegan
-Şirketleşmek için uğraşmayın, yaptığınız iş sizi şirketleştirsin.|Abdurrahman Nakipoğlu
-If your GF doesn't have a personal goal, her personal goal is to make your life miserable.|Goktug Yilmaz
-You need to see like a designer and think like a backend developer.|Vikas Bhagavatula
-
 #Books Quotes
 
 | Quote        | Author           | 
@@ -368,6 +357,7 @@ Unity is strength when there is teamwork and collaboration, wonderful things can
 
 
 #Inspiration Quotes
+
 | Quote        | Author           | 
 | ------------- |:-------------:| 
 I have tried 99 times and have failed, but on the 100th time came success. |Albert Einstein
